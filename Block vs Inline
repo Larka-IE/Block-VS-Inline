@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div>
+            <span>Lorem ipsum dolor sit amet.</span>
+            <div id="middle"></div><em>Etiam et odio turpis.</em></div>
+            <div id="end">Nulla facilisi.</div>
+        </div>
+    </body>
+</html>
